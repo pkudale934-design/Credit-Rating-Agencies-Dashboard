@@ -1,0 +1,550 @@
+[
+ {
+  "ts": "2026-11-17T05:30:08+00:00",
+  "total_rows": 317111,
+  "as_of": "2026-11-16",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 73,
+    "added": 73,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 280,
+    "added": 280,
+    "since": "2026-10-29"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 77,
+    "added": 77,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 34,
+    "added": 34,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 18,
+    "added": 18,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 318,
+    "added": 318,
+    "since": "2026-10-31"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-17T15:39:56+00:00",
+  "total_rows": 317258,
+  "as_of": "2026-11-17",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 42,
+    "added": 42,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 33,
+    "added": 33,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "error",
+    "error": "CRISIL page download failed for SunagEngineeringPrivateLimited_November 17_ 2026_RR_407388.html: 429 Client Error: Too Many Requests for url: https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunagEngineeringPrivateLimited_November%2017_%202026_RR_407388.html"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 11,
+    "added": 11,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 21,
+    "added": 21,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 40,
+    "added": 40,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-18T15:39:30+00:00",
+  "total_rows": 317476,
+  "as_of": "2026-11-18",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 37,
+    "added": 37,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 32,
+    "added": 32,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 127,
+    "added": 127,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 10,
+    "added": 10,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 6,
+    "added": 6,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 6,
+    "added": 6,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-19T15:41:03+00:00",
+  "total_rows": 317621,
+  "as_of": "2026-11-19",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 55,
+    "added": 55,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 49,
+    "added": 49,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "error",
+    "error": "CRISIL list (start=0) failed: 502 Server Error: Bad Gateway for url: https://www.crisilratings.com/content/crisilratings/en/home/our-business/ratings/rating-rationale/_jcr_content/wrapper_100_par/ratingresultlisting.results.json?cmd=RR&start=0&limit=100&filters=%7B%7D&_=1795102297371"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 16,
+    "added": 16,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 19,
+    "added": 19,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 6,
+    "added": 6,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-20T15:39:44+00:00",
+  "total_rows": 317882,
+  "as_of": "2026-11-20",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 25,
+    "added": 25,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 53,
+    "added": 53,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 143,
+    "added": 143,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 14,
+    "added": 13,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 14,
+    "added": 14,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 13,
+    "added": 13,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-21T15:25:34+00:00",
+  "total_rows": 317944,
+  "as_of": "2026-11-20",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 62,
+    "added": 62,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-23T15:50:01+00:00",
+  "total_rows": 318181,
+  "as_of": "2026-11-23",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 83,
+    "added": 83,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 44,
+    "added": 44,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 68,
+    "added": 68,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 11,
+    "added": 11,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 27,
+    "added": 27,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 4,
+    "added": 4,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-24T15:45:57+00:00",
+  "total_rows": 318439,
+  "as_of": "2026-11-24",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 43,
+    "added": 43,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 45,
+    "added": 45,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 93,
+    "added": 93,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 13,
+    "added": 13,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 12,
+    "added": 12,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 52,
+    "added": 52,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-25T15:50:41+00:00",
+  "total_rows": 318797,
+  "as_of": "2026-11-25",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 42,
+    "added": 42,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 56,
+    "added": 56,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 134,
+    "added": 134,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 51,
+    "added": 50,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 18,
+    "added": 18,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 58,
+    "added": 58,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-26T15:49:17+00:00",
+  "total_rows": 319145,
+  "as_of": "2026-11-26",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 57,
+    "added": 57,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 71,
+    "added": 71,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 132,
+    "added": 132,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 12,
+    "added": 12,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 22,
+    "added": 22,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 54,
+    "added": 54,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-27T15:47:29+00:00",
+  "total_rows": 319548,
+  "as_of": "2026-11-27",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 117,
+    "added": 117,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 60,
+    "added": 60,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 139,
+    "added": 139,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 17,
+    "added": 17,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 14,
+    "added": 14,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 56,
+    "added": 56,
+    "since": "2026-11-03"
+   }
+  }
+ },
+ {
+  "ts": "2026-11-28T15:20:56+00:00",
+  "total_rows": 319554,
+  "as_of": "2026-11-28",
+  "agencies": {
+   "ICRA": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "CARE Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "CRISIL": {
+    "status": "ok",
+    "fetched": 6,
+    "added": 6,
+    "since": "2026-11-03"
+   },
+   "India Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "Infomerics": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   },
+   "Acuité": {
+    "status": "disabled"
+   },
+   "Brickwork Ratings": {
+    "status": "ok",
+    "fetched": 0,
+    "added": 0,
+    "since": "2026-11-03"
+   }
+  }
+ }
+]
